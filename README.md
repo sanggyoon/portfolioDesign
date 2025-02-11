@@ -9,3 +9,7 @@
 ![C++](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanggyoon)](https://github.com/anuraghazra/github-readme-stats)
+
+![C++](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggyoon&theme=blue-green)
+
+![C++](https://github-readme-stats.vercel.app/api?username=sanggyoon&theme=blue-green)
