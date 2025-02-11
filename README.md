@@ -23,39 +23,39 @@
     - 자바스크립트 문법을 이해하고 있습니다.
     - **jQuery**를 사용해 보았습니다.
     - **express, vite**를 사용해 보았습니다.
-- `HTML + CSS`
+- ![C++](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![C++](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     - SNS 규모의 **웹 페이지를 제작**한 경험이 있습니다.
-- `React`
+- ![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     - **컴포넌트, 훅, 라이프 사이클**의 개념을 이해하고 있습니다.
     - **리액트 라우팅**을 사용해 보았습니다.
-- `Flutter`
+- ![C++](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     - **위젯의 개념과 종류, 다트 문법**을 이해하고 있습니다.
     - 플러터를 사용하여 **앱을 제작**한 경험이 있습니다.
-- `MYSQL`
+- ![C++](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     - 데이터베이스를 **설계한 경험**이 있습니다.
     - express에 연결하여 **CRUD 규칙을 적용**한 경험이 있습니다.
-- `AWS`
+- ![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
     - **EC2를 사용**하여 리눅스 환경 오픈소스를 수정 및 적용한 경험이 있습니다.
 
 ### 배우고 있거나 배워본 적이 있다!
 
-- `Java`
+- ![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     - 인터넷 강의를 통해 배우고 있습니다.
     - **코딩 테스트** 연습을 진행하고 있습니다.
 - ![C++](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     - 학사 커리큘럼에 포함되어 있습니다.
-- 
+- ![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     - 학사 커리큘럼에 포함되어 있습니다.
 
 ### 다양한 도구들!
 
-- `Notion`
+- ![C++](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
     - 학습 외 사소한 것도 기록합니다.
-- `Git & GitHub`
+- ![C++](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![C++](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
     - 모든 프로젝트에서 사용합니다.
-- `Figma`
+- ![C++](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     - 기본적인 기능 사용 가능합니다.
-- `Slack`
+- ![C++](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![C++](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![C++](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
     - 기본적인 기능 사용 가능합니다. 
 
 ## 깃허브 
