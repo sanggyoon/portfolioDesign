@@ -9,6 +9,7 @@
 # 배지
 ![C++](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 ![C++](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![C++](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sanggyoon)](https://github.com/anuraghazra/github-readme-stats)
