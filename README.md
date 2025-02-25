@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FA1F7&center=true&vCenter=true&width=800&lines=%22%EC%96%B4%EB%A0%A4%EC%9B%80%EC%97%90+%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%83%81%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.%22)](https://git.io/typing-svg)
 
 ##
-## 자기소개
+# 자기소개
 
 - 성장 추구
     - 계속 성장할 수 있는 개발자를 매력적으로 느낍니다.
@@ -18,7 +18,7 @@
     - 공식 홈페이지, 개발자 커뮤니티를 이용할 줄 압니다.
 
 ##
-## 성장 과정
+# 성장 과정
 ### 인공지능 활용 자격증 Aice Basic 취득 (2023.08)
 - 인공지능 기본 개념 학습 
 ### 메타버스 프로젝트 MZDRN : 컴파일 기능이 있는 SNS 서비스
@@ -33,7 +33,7 @@
 - ㅇㅇ 
 
 ##
-## 기술스택
+# 기술스택
 
 ### 실습에 사용한 적이 있다!
 - ![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)![C++](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -76,7 +76,7 @@
     - 기본적인 기능 사용 가능합니다.
   
 ##
-## 깃허브 
+# 깃허브 
 ![C++](https://github-readme-stats.vercel.app/api?username=sanggyoon&theme=blue-green)
 
 ![C++](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggyoon&theme=blue-green)
