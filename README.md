@@ -54,7 +54,7 @@
     - SNS 규모의 웹 페이지를 제작한 경험이 있습니다.
 - ![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     - 컴포넌트, 훅, 라이프 사이클의 개념을 이해하고 있습니다.
-    - 리액트 라우팅을 사용해 보았습니다.
+    - 리액트 라우팅, SPA를 각각 구현해 본 적이 있습니다. 
 - ![C++](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     - 위젯의 개념과 종류, 다트 문법을 이해하고 있습니다.
     - 플러터를 사용하여 앱을 제작한 경험이 있습니다.
