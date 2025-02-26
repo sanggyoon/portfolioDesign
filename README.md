@@ -48,19 +48,19 @@
 ### 실습에 사용한 적이 있다!
 - ![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)![C++](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
     - 자바스크립트 문법을 이해하고 있습니다.
-    - **jQuery**를 사용해 보았습니다.
-    - **express, vite**를 사용해 보았습니다.
+    - jQuery를 사용해 보았습니다.
+    - express, vite를 사용해 보았습니다.
 - ![C++](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![C++](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    - SNS 규모의 **웹 페이지를 제작**한 경험이 있습니다.
+    - SNS 규모의 웹 페이지를 제작한 경험이 있습니다.
 - ![C++](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    - **컴포넌트, 훅, 라이프 사이클**의 개념을 이해하고 있습니다.
-    - **리액트 라우팅**을 사용해 보았습니다.
+    - 컴포넌트, 훅, 라이프 사이클의 개념을 이해하고 있습니다.
+    - 리액트 라우팅을 사용해 보았습니다.
 - ![C++](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-    - **위젯의 개념과 종류, 다트 문법**을 이해하고 있습니다.
-    - 플러터를 사용하여 **앱을 제작**한 경험이 있습니다.
+    - 위젯의 개념과 종류, 다트 문법을 이해하고 있습니다.
+    - 플러터를 사용하여 앱을 제작한 경험이 있습니다.
 - ![C++](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    - 데이터베이스를 **설계한 경험**이 있습니다.
-    - express에 연결하여 **CRUD 규칙을 적용**한 경험이 있습니다.
+    - 데이터베이스 스키마 설계를한 경험이 있습니다.
+    - express에 연결하여 CRUD 규칙을 적용한 경험이 있습니다.
 - ![C++](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
     - **EC2를 사용**하여 리눅스 환경 오픈소스를 수정 및 적용한 경험이 있습니다.
 
