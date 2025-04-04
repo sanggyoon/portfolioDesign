@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0FA1F7&center=true&vCenter=true&width=800&lines=%22%EC%96%B4%EB%A0%A4%EC%9B%80%EC%97%90+%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%83%81%EA%B7%A0%EC%9E%85%EB%8B%88%EB%8B%A4.%22)](https://git.io/typing-svg)
 
 ##
-# 자기소개
+# 자기소개 
 
 ### 성장 추구
 - 계속 성장할 수 있는 개발자를 매력적으로 느낍니다.
@@ -40,7 +40,7 @@
 - Docker, Next.js, PostgreSQL 실력 향상
 ### 정보처리기사 취득 (2025.02-2025.04)
 - 학부생 동안 배운 CS 지식을 정리할 수 있었음.
-### 뉴노멀 프로젝트 '' : 악취 데이터 시각화 (2025.03 - 2025.11)
+### 뉴노멀 프로젝트 '무디개' : 악취 데이터 시각화 (2025.03 - 2025.11)
 - 팀장 역할 수행
 - 세종시 기업 에이티디 코리아와 협업, 프론트엔드 역할 수행
 
