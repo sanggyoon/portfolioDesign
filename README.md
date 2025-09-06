@@ -89,6 +89,15 @@
   
 ##
 # 깃허브 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sanggyoon&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sanggyoon?pet-id=752012113292933792"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ![C++](https://github-readme-stats.vercel.app/api?username=sanggyoon&theme=blue-green)
 
 ![C++](https://github-readme-stats.vercel.app/api/top-langs/?username=sanggyoon&theme=blue-green)
